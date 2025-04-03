@@ -8,11 +8,11 @@ binary="poing-godot-admob-libs/poing-godot-admob-ads-v1.0.1-release.aar"
 
 local=["poing-godot-admob-libs/poing-godot-admob-core-v1.0.1-release.aar"]
 remote=[
-    "com.google.android.gms:play-services-ads:24.1.0",
-    "com.google.ads.mediation:applovin:13.1.0.1",
-    "com.google.ads.mediation:ironsource:8.7.0.1",
-    "com.google.ads.mediation:facebook:6.19.0.1",
-    "com.google.ads.mediation:pangle:6.5.0.6.0",
-    "com.unity3d.ads:unity-ads:4.14.0",
-    "com.google.ads.mediation:unity:4.14.0.0",
+    "com.google.android.gms:play-services-ads:23.6.0",
+    "com.google.ads.mediation:applovin:13.1.0.0",
+    "com.google.ads.mediation:ironsource:8.7.0.0",
+    "com.google.ads.mediation:facebook:6.19.0.0",
+    "com.google.ads.mediation:pangle:6.5.0.4.0",
+    "com.unity3d.ads:unity-ads:4.13.1",
+    "com.google.ads.mediation:unity:4.13.1.0",
 ]
